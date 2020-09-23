@@ -1,0 +1,36 @@
+
+
+
+            
+
+
+################################################################################################################
+#                                                                                                              #
+#                     * * *   *   * * *   *    *   *     *   * * *   *    *   *   *   * * *                    #
+#                     *   *       *       * *  *   *     *   *       * *  *   *   *   *                        #
+#                     * *     *   * * *   *  * *    *   *    * * *   *  * *   *   *   * * *                    #
+#                     *   *   *   *       *   **     * *     *       *   **   *   *   *                        #
+#                     * * *   *   * * *   *    *      *      * * *   *    *   * * *   * * *                    # 
+#                                                                                                              #
+#                                                                                                              #
+#              Vous êtes un cambrioleur professionnel recherché dans le monde entier, qui s’est fait           # 
+#          prendre en plein délit dans la pièce du musée, hautement sécurisée, consacrée aux grandes           #
+#          découvertes pendant la période des Lumières. Vous avez une demi-heure pour trouver le code          #
+#          et ouvrir la porte, avant que la police n’arrive et vous mette en prison. Parviendrez-vous          #
+#          à trouver la combinaison à temps ou vous retrouverez vous enfermé à jamais en prison ?              #
+#                                                                                                              #
+#          Que la partie commence … (appuyez sur m pour commencer, même si ça a déjà commencé  :)  )           #
+#                                                                                                              #
+#                                                                             Bonne chance !!!                 #
+#                                                                                                              #                      
+################################################################################################################
+
+PS : prenez une feuille de papier et un crayon bien taillé avec vous ! N'hésitez à noter tout ce que vous pouvez
+     trouver et le numéro de l'énigme associé  (ça peut toujours servir on ne sait pas :)  ).
+
+
+PSS: Pour mieux apprécier le jeu veuillez mettre votre terminal en grand écran ;) (pour que les collisions marchent comme il se doit !)
+
+
+PSSS: Quand vous aurez des menus d'interaction avec des input(), n'oubliez pas d'appuyer sur ENTRER 
+      pour valider votre choix et ainsi poursuivre votre recherche dans le menu associé.
